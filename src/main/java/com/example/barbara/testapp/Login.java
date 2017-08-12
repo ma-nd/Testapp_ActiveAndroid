@@ -21,7 +21,6 @@ public class Login extends AppCompatActivity {
 
         Button login = (Button)findViewById(R.id.button);
 
-
         final EditText email = (EditText)findViewById(R.id.editText);
         final EditText password = (EditText)findViewById(R.id.editText2);
         final TextView warning = (TextView)findViewById(R.id.textView);
