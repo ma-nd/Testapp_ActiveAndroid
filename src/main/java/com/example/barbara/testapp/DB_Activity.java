@@ -162,7 +162,6 @@ if(selected[0]) {
         });
     }
 
-
     private void showDB(ListView itemList) {
         ArrayList<String> arrayList;
         arrayList = new ArrayList<>();
